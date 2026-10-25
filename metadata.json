@@ -1,0 +1,6 @@
+{
+  "name": "Your Persnal AI",
+  "description": "Smart personal AI study companion for step-by-step problem solving, math, science, languages, coding, and notes summarization with offline history support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
